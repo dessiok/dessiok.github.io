@@ -18,17 +18,13 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	transition: opacity 1s;
 	padding: 10px;
 	border-radius: 20px; /* rundade hörn */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); /* boxens skugga */ 
 
 	/* font-family: Abel; */
 	font-family: 'Bebas Neue', sans-serif; /* typsnitt */
 
 	// Hide when not active
 	opacity: 0;
-
-  width: 250px; /* bredd på boxen */
-  padding: 15px; /* avstånd från boxens kanter till innehållet i den */
-  border-radius: 20px; /* hörnen på boxen */
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); /* boxens skugga */ 
 }
 
 .custom.finished,
