@@ -14,7 +14,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 */
 .custom {
 	background-color: rgba(0, 0, 0, 0.55); /* färg och opacitet på boxen */
-	width: 350px;
+	width: 500px;
 	transition: opacity 1s;
 	padding: 5px;
 	border-radius: 25px; /* rundade hörn */
