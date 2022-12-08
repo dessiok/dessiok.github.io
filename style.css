@@ -95,12 +95,12 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .options li.help {
 	text-align: left;
+
 	overflow: hidden;
 	height: 0;
 }
 .custom .options li.help span {
 	display: block;
-	padding: 10px;
 }
 .custom .options li .procent {
 	position: absolute;
