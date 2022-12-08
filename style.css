@@ -16,8 +16,8 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	background-color: rgba(0, 0, 0, 0.55); /* färg och opacitet på boxen */
 	width: 300px;
 	transition: opacity 1s;
-	padding: 10px;
-	border-radius: 20px; /* rundade hörn */
+	padding: 5px;
+	border-radius: 25px; /* rundade hörn */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); /* boxens skugga */ 
 
 	/* font-family: Abel; */
@@ -94,7 +94,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	position: relative;
 }
 .custom .options li.help {
-	text-align: center;
+	text-align: left;
 	overflow: hidden;
 	height: 0;
 }
