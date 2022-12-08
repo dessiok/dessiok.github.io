@@ -109,6 +109,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
     color: #bbb;
     font-size: 16px;
     padding-left: 20px;
+    align-items: center;
 }
 .custom .options li .procent {
 	position: absolute;
