@@ -83,7 +83,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	text-overflow: ellipsis;
 	padding-right: 55px;
 	padding-left: 55px;
-	font-size: 15px;
+	font-size: 12px;
 }
 .custom .options li.question {
 	padding: 10px 20px;
@@ -101,6 +101,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .options li.help span {
 	display: block;
+    color: grey;
 }
 .custom .options li .procent {
 	position: absolute;
