@@ -43,12 +43,12 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 10px;
 	margin: 10px 0;
 	line-height: 1.3;
-    font-size: 13px;
+    font-size: 16px;
 }
 .custom .total strong,
 .custom .duration strong {
 	color: #ffa;
-	font-size: 13px;
+	font-size: 16px;
 }
 .custom .total {
 	margin-right: 2%;
@@ -83,14 +83,14 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	text-overflow: ellipsis;
 	padding-right: 55px;
 	padding-left: 55px;
-	font-size: 15px;
+	font-size: 19px;
 }
 .custom .options li.question {
 	padding: 10px 20px;
 	white-space: normal;
 	clear: both;
 	line-height: 1.3;
-	font-size: 20px;
+	font-size: 24px;
 	position: relative;
 }
 .custom .options li.help {
@@ -102,12 +102,12 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .options li.help span {
 	display: block;
     color: #bbb;
-    font-size: 13px;
+    font-size: 16px;
 }
 .custom .options li .procent {
 	position: absolute;
 	top: 10px;
-	right: 15px;
+	right: 19px;
 }
 .custom .options li .number {
 	padding: 5px 10px;
