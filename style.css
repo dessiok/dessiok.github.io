@@ -18,7 +18,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	transition: opacity 1s;
 	padding: 5px;
 	border-radius: 25px; /* rundade hörn */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); /* boxens skugga */ 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7); /* boxens skugga */ 
 
 	/* font-family: Abel; */
 	font-family: 'Bebas Neue', sans-serif; /* typsnitt */
