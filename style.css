@@ -118,7 +118,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .options li .number {
 	padding: 5px 10px;
 	position: absolute;
-	top: 7px;
+	top: 8px;
 	left: 10px;
 }
 .custom .options li .bar {
