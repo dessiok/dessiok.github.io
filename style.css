@@ -14,7 +14,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 */
 .custom {
 	background-color: rgba(0, 0, 0, 0.55); /* färg och opacitet på boxen */
-	width: 500px;
+	width: 400px;
 	transition: opacity 1s;
 	padding: 5px;
 	border-radius: 25px; /* rundade hörn */
@@ -23,7 +23,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	/* font-family: Abel; */
 	font-family: 'Bebas Neue', sans-serif; /* typsnitt */
 
-	// Hide when not active
+	/* Hide when not active */
 	opacity: 0;
 }
 
@@ -47,12 +47,12 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	padding: 10px;
 	margin: 10px 0;
 	line-height: 1.3;
-    font-size: 16px;
+    font-size: 18px;
 }
 .custom .total strong,
 .custom .duration strong {
 	color: #ffa;
-	font-size: 16px;
+	font-size: 18px;
 }
 .custom .total {
 	margin-right: 2%;
@@ -88,14 +88,14 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	text-overflow: ellipsis;
 	padding-right: 55px;
 	padding-left: 0px;
-	font-size: 19px;
+	font-size: 22px;
 }
 .custom .options li.question {
 	padding: 10px 20px;
 	white-space: normal;
 	clear: both;
 	line-height: 1.3;
-	font-size: 24px;
+	font-size: 28px;
 	position: relative;
 }
 .custom .options li.help {
@@ -107,7 +107,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .options li.help span {
 	display: block;
     color: #bbb;
-    font-size: 16px;
+    font-size: 18px;
     padding-left: 20px;
 }
 .custom .options li .procent {
