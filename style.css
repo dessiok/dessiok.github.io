@@ -146,7 +146,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 } */
 
 
-/* .custom .credits {
+.custom .credits {
 	opacity: 0;
 	height: 0;
 }
@@ -161,7 +161,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom.active .credits, .custom.removing .credits {
 	height: 0;
 	opacity: 0;
-} */
+}
 
 
 /*
